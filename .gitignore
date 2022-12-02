@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+mri_dataset
+*.pdf
+*.odg
+log.tex
+presentation.tex
+titlepage.tex
